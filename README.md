@@ -1,16 +1,20 @@
+### About
+Just fooling around. Front end is definitely not my forte, but what better way is there to distribute one's ideas to the world?
+
+
 ### Create App
-```
+```sh
 npx create-react-app my-app
 npx create-react-app my-app --template typescript
 ```
 
 ### Install `gh-pages` Package
-```
+```sh
 npm install gh-pages --save-dev
 ```
 
 ### Update `package.json`
-```
+```sh
 {
   "name": "treasury",
   "version": "0.1.0",
@@ -27,8 +31,14 @@ npm install gh-pages --save-dev
 ```
 
 ### Deploy
-```
+```sh
 npm run deploy
+```
+
+### Run Locally
+```sh
+npm install
+npm start
 ```
 
 ### More
