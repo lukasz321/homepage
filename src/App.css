@@ -13,7 +13,7 @@
 
 .container {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   width: 60%;
   gap: 1vw;
   align-items: center;
@@ -21,16 +21,11 @@
 }
 
 svg {
-  width: 100%;
-  height: 100%;
-}
-
-.svg-container {
   width: 70%;
   height: 70%;
 }
 
-.svg-container:hover {
+.svg:hover {
   filter: grayscale(100%);
 }
 

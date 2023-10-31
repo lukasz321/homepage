@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
+      {/*
         <a href="https://decide.lzagaja.com" target="_blank" rel="noreferrer">
           <div className="svg-container rotate-animation">
             <DecisionsSvg
@@ -37,21 +38,21 @@ function App() {
             />
           </div>
         </a>
-
-        <a href="https://treasury.lzagaja.com" target="_blank" rel="noreferrer">
-          <div className="svg-container zoom-animation">
-            <DollarSvg
-              fill="#00ffaa"
-              stroke="#00ffdd"
-              opacity="0.64"
-              className="svg"
-            />
-          </div>
-        </a>
         <a href="https://www.youtube.com/channel/UCsSeiZbxVfW8WlgDy7EKPfA" target="_blank" rel="noreferrer">
           <div className="svg-container" style={{ width: "60%"}}>
             <YoutubeSvg
               opacity="0.70"
+              className="svg"
+            />
+          </div>
+        </a>
+        */}
+        <a href="https://treasuryields.com" target="_blank" rel="noreferrer">
+          <div className="svg-container zoom-animation">
+            <DollarSvg
+              fill="#00ffaa"
+              fill="#00ffcc"
+              opacity="0.64"
               className="svg"
             />
           </div>
