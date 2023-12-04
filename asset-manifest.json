@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.81250995.css",
-    "main.js": "/static/js/main.d6718201.js",
+    "main.css": "/static/css/main.021e7912.css",
+    "main.js": "/static/js/main.b4b46086.js",
     "static/js/787.5c39024c.chunk.js": "/static/js/787.5c39024c.chunk.js",
-    "static/media/decisions.svg": "/static/media/decisions.9e39fc30c2e57b618afc125442791e88.svg",
-    "static/media/talk.svg": "/static/media/talk.4b38e61eec13680eaa0e995a7c261d23.svg",
-    "static/media/dollar.svg": "/static/media/dollar.95439114e25598f7be3331f42b3b0f86.svg",
-    "static/media/wordle.svg": "/static/media/wordle.533005e7ae50ce041fe7257e8f6880e3.svg",
-    "static/media/yt.svg": "/static/media/yt.f1193bb8a194fa638c21a6345860fad4.svg",
+    "static/media/treasury.svg": "/static/media/treasury.4e296eb260652b843ff6a469bcefbde7.svg",
+    "static/media/powerplot.svg": "/static/media/powerplot.579346e01a2445e5d77cdfedd48c9a51.svg",
+    "static/media/email.svg": "/static/media/email.4e6132ae39f1ffff0fcddf81304d10b1.svg",
+    "static/media/github.svg": "/static/media/github.f171f985f8e4535fcd879816ac398d5c.svg",
+    "static/media/yt.svg": "/static/media/yt.a971a9d82dd192ee2dac1d8cde8dcaba.svg",
+    "static/media/about.svg": "/static/media/about.ea2b7b237667ae87b9b96fc1604652fd.svg",
     "index.html": "/index.html",
-    "main.81250995.css.map": "/static/css/main.81250995.css.map",
-    "main.d6718201.js.map": "/static/js/main.d6718201.js.map",
+    "main.021e7912.css.map": "/static/css/main.021e7912.css.map",
+    "main.b4b46086.js.map": "/static/js/main.b4b46086.js.map",
     "787.5c39024c.chunk.js.map": "/static/js/787.5c39024c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81250995.css",
-    "static/js/main.d6718201.js"
+    "static/css/main.021e7912.css",
+    "static/js/main.b4b46086.js"
   ]
 }
