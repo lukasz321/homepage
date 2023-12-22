@@ -26,7 +26,7 @@ function App() {
         <a href="https://treasuryields.com" target="_blank" rel="noreferrer">
           <TreasurySvg />
         </a>
-        <a href="https://power.lzagaja.com" target="_blank" rel="noreferrer">
+        <a href="https://powerplot.app" target="_blank" rel="noreferrer">
           <PowerplotSvg />
         </a>
         <a
