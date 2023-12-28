@@ -1,45 +1,30 @@
-### About
-Just fooling around. Front end is definitely not my forte, but what better way is there to distribute one's ideas to the world?
+## About
+Just fooling around. Webapps aren't not my forte, but what better way is there to distribute ideas to the world?
 
-
-### Create App
+## GH Pages Deployment
 ```sh
-npx create-react-app my-app
 npx create-react-app my-app --template typescript
-```
-
-### Install `gh-pages` Package
-```sh
 npm install gh-pages --save-dev
 ```
 
-### Update `package.json`
+#### Update `package.json`
 ```sh
 {
-  "name": "treasury",
+  "name": "homepage",
   "version": "0.1.0",
   "private": true,
-->"homepage": "https://treasury.lzagaja.com",
+->"homepage": "https://lzagaja.com",
 
 ...
 
   "scripts": {
-->  "add-domain": "echo \"treasury.lzagaja.com\" > build/CNAME",
+->  "add-domain": "echo \"lzagaja.com\" > build/CNAME",
 ->  "predeploy": "npm run build",
 ->  "deploy": "npm run add-domain && gh-pages -d build",
 
 ```
 
-### Deploy
+#### Deploy
 ```sh
 npm run deploy
 ```
-
-### Run Locally
-```sh
-npm install
-npm start
-```
-
-### More
-https://github.com/gitname/react-gh-pages
